@@ -1,6 +1,6 @@
 Tools for martini coarse graining using gromacs Software.
 
-make_ndx.sh create the index file with grips of atoms corresponding to each CG particle
+make_ndx.sh create the index file with groups of atoms corresponding to each CG particles
 
 Usage:
 
